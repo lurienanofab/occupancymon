@@ -1,0 +1,16 @@
+﻿[
+  {
+    "name": "cleanroom",
+    "areaName": "Clean Room",
+    "trigger": 20,
+    "state": true,
+    "pointId": 313
+  },
+  {
+    "name": "robin",
+    "areaName": "Wet Chemistry",
+    "trigger": 20,
+    "state": true,
+    "pointId": 314
+  }
+]
